@@ -13,7 +13,7 @@ const Clients = () => {
         </div>
         <div className="card-body">
           <h4 className="card-title">Administrado</h4>
-          <p className="card-text">PELAEZ BENITES JUAN BERNARDO</p>
+          <p className="card-text">PELAEZ BENITES JUAN PROFESOR AMADOR</p>
         </div>
         <div className="card-footer text-muted">
           <button type="button" className="btn btn-success">INICIO</button>

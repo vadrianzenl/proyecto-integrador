@@ -4,10 +4,10 @@ import { data } from './Constants';
 
 const Clients = () => {
   return (
-    <div className="container mt-5 text-center">
+    <div className="container pt-5 text-center bg-light">
       <h2>ATENCIÓN AL ADMINISTRADO: Elena Rodriguez</h2>
       <hr />
-      <div className="card text-center" v-if="accountCustomer">
+      <div className="card text-center">
         <div className="card-header">
           DATOS GENERALES
         </div>
